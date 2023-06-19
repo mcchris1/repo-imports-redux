@@ -1,0 +1,66 @@
+[
+    {
+        "firstName": "Meera",
+        "lastName": "Sodha",
+        "cookbooks": [
+            {
+                "title": "Made in India",
+                "yearPublished": 2014
+            },
+            {
+                "title": "Fresh India",
+                "yearPublished": 2018
+            }
+        ]
+    },
+    {
+        "firstName": "Wes",
+        "lastName": "Avila",
+        "cookbooks": [
+            {
+            "title": "Guerilla Tacos",
+            "yearPublished": 2017
+            }
+        ]
+    },
+    {
+        "firstName": "J. Kenji",
+        "lastName": "López-Alt",
+        "cookbooks": [
+            {
+            "title": "The Food Lab",
+            "yearPublished": 2015
+            }
+        ]
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "McNaughton",
+        "cookbooks": [
+            {
+            "title": "Flour + Water",
+            "yearPublished": 2014
+            }
+        ]
+    },
+    {
+        "firstName": "Alison",
+        "lastName": "Roman",
+        "cookbooks": [
+            {
+            "title": "Dining In",
+            "yearPublished": 2017
+            }
+        ]
+    },
+    {
+        "firstName": "Samin",
+        "lastName": "Nosrat",
+        "cookbooks": [
+            {
+            "title": "Salt Fat Acid Heat",
+            "yearPublished": 2017
+            }
+        ]
+    }
+]
